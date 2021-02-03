@@ -1,7 +1,7 @@
-# Merge Mamba Issue Tracker.
+# Merge Mamba Issues.
 
-Found a bug? Got a suggestion? Use this repository to raise issues for Merge Mamba. If you'd rather contact me 
-directly, email me at henry@mergemamba.com.
+Found a bug? Got a suggestion? Raise Merge Mamba issues here. **If you'd rather contact me 
+directly, email me at [henry@mergemamba.com](mailto:henry@mergemamba.com)**.
 
 # Bug Reports
 
