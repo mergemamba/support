@@ -14,4 +14,4 @@ If there's a problem that Merge Mamba nearly solves, a feature you can't live wi
 much better Merge Mamba could be, please take a minute to file an issue and let me know. All suggestions are welcome,
  no matter how big or small.
 
-If you'd like to email me directly, drop me a message at henry@mergemamba.com.
+**If you'd like to email me directly, drop me a message at [henry@mergemamba.com](mailto:henry@mergemamba.com)**.
