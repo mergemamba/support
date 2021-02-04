@@ -10,8 +10,8 @@ Raise Merge Mamba issues in this repository using the issues tab above. If you'd
 
 If there's a problem that Merge Mamba nearly solves, a feature you can't live without or if you just want to tell me how much better Merge Mamba could be, please take a minute to file an issue and let me know. All suggestions are welcome, no matter how big or small.
 
-**For anything else of if you'd like to email me directly, drop me a message at [henry@mergemamba.com](mailto:henry@mergemamba.com)**.
+**For anything else, or if you'd rather just email me directly, drop me a message at [henry@mergemamba.com](mailto:henry@mergemamba.com)**.
 
 ## Roadmap
 
-Merge Mamba is under constant development and we'll have a public roadmap ready soon.
+Merge Mamba is under constant development and we'll have a public roadmap up soon.
