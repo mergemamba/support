@@ -1,6 +1,10 @@
 # Merge Mamba Support
 
-Something broken? Need help? Got a suggestion? You can get in touch me directly at [henry@mergemamba.com](mailto:henry@mergemamba.com). Alternatively you can use the [issues tab in this repo](https://github.com/mergemamba/support/issues) to raise and track issues relating to Merge Mamba. 
+Something broken? Need help? Got a suggestion? You can get in touch me directly at [henry@mergemamba.com](mailto:henry@mergemamba.com). Alternatively you can use the [issues tab in this repo](https://github.com/mergemamba/support/issues) to raise and track issues relating to Merge Mamba
+
+## Statuspage
+
+[See our statuspage](https://statuspage.mergemamba.com) for information about ongoing incidents. If you think there's a problem that we're not aware of, [please let me know](mailto:henry@mergemamba.com).
 
 ## Bug Reports
 
